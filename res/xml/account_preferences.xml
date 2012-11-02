@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/sync_settings_title"/>
+    <PreferenceScreen android:key="account_settings"
+                      android:title="@string/sync_settings"
+                      android:summary="@string/sync_settings_msg">
+        <intent android:action="com.codeminders.imageshackdroid.Constants.INTENT_ACCOUNT_SETUP"
+                android:targetPackage="com.codeminders.imageshackdroid"
+                android:targetClass="com.codeminders.imageshackdroid.activities.PreferencesActivity"/>
+    </PreferenceScreen>
+</PreferenceScreen>

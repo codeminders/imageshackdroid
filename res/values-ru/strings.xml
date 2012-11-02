@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageshackDroid</string>
+    <string name="user">Пользователь Imageshack:</string>
+
+    <string name="main">Очередь</string>
+    <string name="history">История</string>
+
+    <string name="pass">Пароль:</string>
+    <string name="save">Сохранить</string>
+
+    <string name="loggedin">Вы вошли в систему как:</string>
+    <string name="logout">Выйти</string>
+
+    <string name="finished">Закачано</string>
+    <string name="upload">Закачивание</string>
+    <string name="wait">Ожидающий</string>
+    <string name="pause">Приостановлено</string>
+
+    <string name="pauseall">Остановить</string>
+    <string name="resumeall">Продолжить</string>
+    <string name="removeall">Отменить</string>
+
+    <string name="image_link">Direct Link:</string>
+    <string name="image_html">HTML:</string>
+    <string name="image_bb">Forum:</string>
+    <string name="image_bb2">Alt Forum:</string>
+    <string name="thumb_link">Thumb:</string>
+    <string name="thumb_html">HTML Thumb:</string>
+    <string name="thumb_bb">Thumb Forum:</string>
+    <string name="thumb_bb2">Thumb Alt Forum:</string>
+    <string name="yfrog_link">yfrog:</string>
+    <string name="yfrog_thumb">yfrog Thumb:</string>
+    <string name="ad_link">Link:</string>
+
+    <string name="direct_link">Direct link:</string>
+    <string name="frame_link">Frame link:</string>
+    <string name="frame_html">HTML:</string>
+    <string name="frame_bb">Forum:</string>
+    <string name="frame_bb2">Alt Forum:</string>
+    <string name="video_embed">Embed code:</string>
+
+    <string name="history_empty">Ваша история пуста</string>
+    <string name="queue_empty">Ваша очередь пуста</string>
+
+    <string name="hd_title">Действия:</string>
+    <string name="hd_open">Открыть</string>
+    <string name="hd_remove">Удалить</string>
+
+    <string name="size">размер:</string>
+    <string name="share">Расшарить</string>
+    <string name="copy">Скопирывать</string>
+    <string name="clear">Очистить</string>
+    <string name="multiselect">Множественный выбор</string>
+    <string name="copied">Скопирывано</string>
+
+    <string name="btn_copy">скопирывать</string>
+    <string name="btn_share">расшарить</string>
+
+    <string name="show_pass">Показать пароль</string>
+
+    <string name="network_err_login">Произошла ошибка проверки ваших учетных данных. Проверьте подключение к сети и
+        повторите попытку.
+    </string>
+    <string name="network_err">Произошла ошибка передачи данных. Проверьте подключение к сети и
+        повторите попытку.
+    </string>
+    <string name="login_err">Неверные данные учетной записи.</string>
+    <string name="login_btn_pos">Закрыть</string>
+
+    <string name="upload_err">Ошибка загрузки</string>
+    <string name="unknown_schema">Неизвестная схема</string>
+    <string name="nothing_to_send">Нечего отправить</string>
+    <string name="logging">Идёт подключение&#8230;</string>
+    <string name="ACCOUNT_TYPE">us.imageshack</string>    
+    <string name="login_activity_ok_button">Войти</string>
+    <string name="login_activity_password_label">Пароль</string>
+    <string name="login_activity_username_label">Пользователь</string>
+    <string name="login_activity_newaccount_text">Зайдите в учетную запись imageshack.us.</string>
+    <string name="login_activity_loginfail_text_both">Произошла ошибка проверки ваших учетных данных. Проверьте
+        подключение к сети и повторите попытку.
+    </string>
+    <string name="login_activity_loginfail_text_pwmissing">Введите пароль для учетной записи.</string>
+    <string name="login_activity_loginfail_text_pwonly">Вы ввели неправельный пароль или ваша учетная запись изменилась.
+        Попробуйте ввести пароль еще раз.
+    </string>
+    <string name="ui_activity_authenticating">Аутентификация\u2026</string>
+    <string name="account_type_label">Imageshack</string>    
+    <string name="notloggedin">Вы не вошли!</string>
+
+    <string name="switch_account">Выбрать учетную запись</string>
+    <string name="add_account">Добавить учетную запись</string>
+    <string name="videos">видео</string>
+    <string name="images">изображения</string>
+    <string name="sync_settings">Настройки синхронизации</string>
+    <string name="sync_settings_msg">Настройте синхронизацию</string>
+    <string name="sync_settings_title">Главные настройки</string>
+    <string name="private_ckbx">Выгружать как приватные</string>
+    <string name="wifi_ckbx">Синхронизировать только по WiFi</string>
+    <string name="tags_edit">Введите теги(Необязательно)</string>
+    <string name="conf_save">Настройки сохранены</string>
+    <string name="sync_in_progreess">Идёт синхронизация. Повторите попытку позже</string>
+    <string name="sync_interval">Интервал автосинхронизации</string>
+
+    <string name="time_5_min">5 минут</string>
+    <string name="time_15_min">15 минут</string>
+    <string name="time_30_min">30 минут</string>
+    <string name="time_1_hour">1 час</string>
+    <string name="time_2_hours">2 часа</string>
+    <string name="time_4_hours">4 часа</string>
+    <string name="time_8_hours">8 часов</string>
+    <string name="time_12_hours">12 часов</string>
+    <string name="time_24_hours">24 часа</string>
+
+    <string name="share_signature">Отправлено с ImageshackDroid</string>
+    <string name="media_ejected">Карта памяти расшарена. Ваши загрузки отменены. Отключите режим расшаривания и попробуйте снова.
+    </string>
+</resources>

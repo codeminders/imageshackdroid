@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/multiselect"
+          android:icon="@android:drawable/ic_menu_edit"
+          android:title="@string/multiselect"/>
+    <item android:id="@+id/clearall_history"
+          android:icon="@android:drawable/ic_menu_delete"
+          android:title="@string/clear"/>
+    <item android:id="@+id/clearselect_history"
+          android:icon="@android:drawable/ic_menu_delete"
+          android:visible="false"
+          android:title="@string/clear"/>
+    <item android:id="@+id/copy_history"
+          android:icon="@android:drawable/ic_menu_add"
+          android:visible="false"
+          android:title="@string/copy"/>
+    <item android:id="@+id/share_history"
+          android:icon="@android:drawable/ic_menu_share"
+          android:visible="false"
+          android:title="@string/share"/>
+    <item android:id="@+id/switch_account"
+          android:icon="@android:drawable/ic_menu_manage"
+          android:title="@string/switch_account"/>
+    <item android:id="@+id/sync_settings"
+          android:icon="@android:drawable/ic_menu_recent_history"
+          android:title="@string/sync_settings"/>
+</menu>

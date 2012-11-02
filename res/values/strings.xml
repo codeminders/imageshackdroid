@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageshackDroid</string>
+    <string name="user">Imageshack user:</string>
+
+    <string name="main">Queue</string>
+    <string name="history">History</string>
+
+    <string name="pass">Password:</string>
+    <string name="save">Save</string>
+
+    <string name="loggedin">Logged in as:</string>
+    <string name="logout">Log out</string>
+
+    <string name="finished">Finished</string>
+    <string name="upload">Uploading</string>
+    <string name="wait">Waiting</string>
+    <string name="pause">Paused</string>
+
+    <string name="pauseall">Pause all</string>
+    <string name="resumeall">Resume all</string>
+    <string name="removeall">Clear</string>
+
+    <string name="image_link">Direct Link:</string>
+    <string name="image_html">HTML:</string>
+    <string name="image_bb">Forum:</string>
+    <string name="image_bb2">Alt Forum:</string>
+    <string name="thumb_link">Thumb:</string>
+    <string name="thumb_html">HTML Thumb:</string>
+    <string name="thumb_bb">Thumb Forum:</string>
+    <string name="thumb_bb2">Thumb Alt Forum:</string>
+    <string name="yfrog_link">yfrog:</string>
+    <string name="yfrog_thumb">yfrog Thumb:</string>
+    <string name="ad_link">Link:</string>
+
+    <string name="direct_link">Direct link:</string>
+    <string name="frame_link">Frame link:</string>
+    <string name="frame_html">HTML:</string>
+    <string name="frame_bb">Forum:</string>
+    <string name="frame_bb2">Alt Forum:</string>
+    <string name="video_embed">Embed code:</string>
+
+    <string name="history_empty">Your history is empty</string>
+    <string name="queue_empty">Your queue is empty</string>
+
+    <string name="hd_title">Action:</string>
+    <string name="hd_open">Open</string>
+    <string name="hd_remove">Remove</string>
+
+    <string name="size">size:</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="multiselect">Multiselect</string>
+    <string name="copied">Copied to clipboard</string>
+
+    <string name="btn_copy">copy</string>
+    <string name="btn_share">share</string>
+
+    <string name="show_pass">Show password</string>
+
+    <string name="network_err_login">There was error checking your credentials. Check your network connection and try
+        again.
+    </string>
+    <string name="network_err">There was data transferring error. Check your network connection and try
+        again.
+    </string>
+    <string name="login_err">Invalid credentials.</string>
+    <string name="login_btn_pos">Dismiss</string>
+
+    <string name="upload_err">Upload error</string>
+    <string name="unknown_schema">Unknown schema</string>
+    <string name="nothing_to_send">Nothing to send</string>
+    <string name="logging">Logging in&#8230;</string>
+    <string name="ACCOUNT_TYPE">us.imageshack</string>
+    <string name="login_activity_ok_button">Sign in</string>
+    <string name="login_activity_password_label">Password</string>
+    <string name="login_activity_username_label">Username</string>
+    <string name="login_activity_newaccount_text">Sign in to your imageshack.us account.</string>
+    <string name="login_activity_loginfail_text_both">Incorrect username or password. Please try again.</string>
+    <string name="login_activity_loginfail_text_pwmissing">Type the password for this account.</string>
+    <string name="login_activity_loginfail_text_pwonly">You entered the wrong password or your account has changed.
+        Please re-enter your password.
+    </string>
+    <string name="ui_activity_authenticating">Authenticating\u2026</string>
+    <string name="account_type_label">Imageshack</string>
+    <string name="notloggedin">Not logged in!</string>
+
+    <string name="switch_account">Switch account</string>
+    <string name="add_account">Add account</string>
+    <string name="videos">videos</string>
+    <string name="images">images</string>
+    <string name="sync_settings">Sync Settings</string>
+    <string name="sync_settings_msg">Configure synchronization</string>
+    <string name="sync_settings_title">General Settings</string>
+    <string name="private_ckbx">Upload as private</string>
+    <string name="wifi_ckbx">Sync only over wifi</string>
+    <string name="tags_edit">Enter tags(Optional)</string>
+    <string name="conf_save">Configuration saved</string>
+    <string name="sync_in_progreess">Sync in progress. Please try again later</string>
+    <string name="sync_interval">AutoSync interval</string>
+
+    <string name="time_5_min">5 min</string>
+    <string name="time_15_min">15 min</string>
+    <string name="time_30_min">30 min</string>
+    <string name="time_1_hour">1 hour</string>
+    <string name="time_2_hours">2 hours</string>
+    <string name="time_4_hours">4 hours</string>
+    <string name="time_8_hours">8 hours</string>
+    <string name="time_12_hours">12 hours</string>
+    <string name="time_24_hours">24 hours</string>
+
+    <string name="share_signature">Sent with ImageshackDroid</string>
+    <string name="media_ejected">Media storage is shared. Your uploads were canceled. Stop sharing and try again.
+    </string>
+</resources>

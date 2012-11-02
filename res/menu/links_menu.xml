@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/links_multiselect"
+          android:icon="@android:drawable/ic_menu_edit"
+          android:title="@string/multiselect"/>
+    <item android:id="@+id/links_copy"
+          android:icon="@android:drawable/ic_menu_add"
+          android:title="@string/copy"
+          android:visible="false"/>
+    <item android:id="@+id/links_share"
+          android:icon="@android:drawable/ic_menu_share"
+          android:title="@string/share"
+          android:visible="false"/>
+</menu>

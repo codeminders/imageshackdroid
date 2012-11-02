@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pauseall"
+          android:icon="@android:drawable/ic_media_pause"
+          android:title="@string/pauseall"/>
+    <item android:id="@+id/resumeall"
+          android:icon="@android:drawable/ic_media_play"
+          android:title="@string/resumeall"/>
+    <item android:id="@+id/removeall"
+          android:icon="@android:drawable/ic_menu_delete"
+          android:title="@string/removeall"/>
+    <item android:id="@+id/switch_account"
+          android:icon="@android:drawable/ic_menu_manage"
+          android:title="@string/switch_account"/>
+     <item android:id="@+id/sync_settings"
+          android:icon="@android:drawable/ic_menu_recent_history"
+          android:title="@string/sync_settings"/>
+</menu>

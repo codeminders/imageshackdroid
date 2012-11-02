@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <TextView
+                android:id="@+id/hi_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/list_checkbox"
+                android:layout_below="@+id/hi_time"
+                android:singleLine="true"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                />
+        <TextView
+                android:id="@+id/hi_status"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/hi_name"
+                android:paddingLeft="10dp"  />
+        <TextView
+                android:id="@+id/hi_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                />
+        <CheckBox
+                android:text=""
+                android:id="@+id/list_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/hi_time"
+                android:layout_alignParentRight="true"
+                android:checked="false"
+                android:visibility="invisible">
+        </CheckBox>
+    </RelativeLayout>
+</LinearLayout>  
